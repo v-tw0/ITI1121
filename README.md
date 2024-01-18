@@ -1,4 +1,4 @@
-# ITI1121
+# ITI1121 - Introduction to Computing II
 Introduction to Computer Science 2. Written in java, and programmed in Sublime Text 3.
 
 Author(s): Alex Gordon
